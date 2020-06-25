@@ -24,7 +24,7 @@ app.get('/', (req, res) => {
     // }
 
     res.render('home', {
-        nombre: "Fernando"
+        nombre: "Emmanuel"
     });
 })
 
